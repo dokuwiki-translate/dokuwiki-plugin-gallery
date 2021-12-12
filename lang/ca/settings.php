@@ -2,7 +2,7 @@
 
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * 
+ *
  * @author Abel Rico <aricoripoll@iesesteveterradas.cat>
  */
 $lang['thumbnail_width']       = 'Amplada de la miniatura';
